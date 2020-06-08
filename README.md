@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>React Corona Tracker</h3>
 
 ## Available Scripts
 
